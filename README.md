@@ -1,4 +1,5 @@
 # BSc Thesis Supplement – Race Algorithm Development for Simulated and Real Robot in ROS 2
+# Created by Amirhossein M.Alikhani #
 
 This supplement contains all Python scripts, launch files, logs, and evaluation tools used in the thesis project. The files are structured to reflect the modular and unified design of the adaptive racing controller built for the Roboracer platform under ROS 2 (Humble).
 
